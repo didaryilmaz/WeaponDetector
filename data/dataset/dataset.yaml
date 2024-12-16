@@ -1,8 +1,0 @@
-
-path: /Users/didaryilmaz/Documents/GitHub/WeaponDetector/data/dataset
-train: images/train
-val: images/test
-
-names:
-  0: weapon
-  1: knife
