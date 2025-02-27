@@ -61,15 +61,5 @@ python detect.py
 
 Bu komut, bilgisayarın kamerasını kullanarak anlık tespit yapacaktır.
 
-🤝 Katkıda Bulunma
 
-Katkıda bulunmak için aşağıdaki adımları takip edebilirsiniz:
-
-📌 Bu depoyu forklayın.
-
-🔄 Yeni bir dal (branch) oluşturun.
-
-📝 Değişikliklerinizi yapın ve commit edin.
-
-📩 Bir çekme isteği (pull request) gönderin.
 
